@@ -6,6 +6,7 @@ public class DBDemo {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		while(true) {
+			System.out.println("testing");
 		System.out.println("1: For Inserting");
 		System.out.println("2: For Updating");
 		System.out.println("3: For Deleting");
